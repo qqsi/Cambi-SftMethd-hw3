@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f13.hw3</groupId>
 	<artifactId>hw3-taog</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<repositories>
 		<repository>
 			<id>oaqa</id>
@@ -73,20 +73,6 @@
 			<groupId>org.apache.uima</groupId>
 			<artifactId>uimaj-as-jms</artifactId>
 			<version>2.4.0</version>
-		</dependency>
-
-
-
-
-		<dependency>
-			<groupId>org.apache.uima</groupId>
-			<artifactId>uimaj-as-activemq</artifactId>
-			<version>2.4.0</version>
-		</dependency>
-		<dependency>
-			<groupId>org.cleartk</groupId>
-			<artifactId>cleartk-stanford-corenlp</artifactId>
-			<version>0.8.0</version>
 		</dependency>
 	</dependencies>
 	<scm>
